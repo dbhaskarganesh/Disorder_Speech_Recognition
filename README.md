@@ -1,6 +1,4 @@
-Absolutely! Here's a simplified README for Disorder Speech Recognition:
-
----
+ 
 
 # Disorder Speech Recognition 🗣️🔍
 
