@@ -34,6 +34,4 @@ A big shoutout to all contributors and inspirations who contributed to this proj
 
 Have questions or ideas? Get in touch with devallabhaskarganesh@gmail.com.
 
----
 
-Feel free to personalize this README further to match the specifics of your project or add more sections as needed!
